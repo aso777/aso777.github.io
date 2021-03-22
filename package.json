@@ -11,7 +11,7 @@
   "dependencies": {
     "grommet": "^2.14.0",
     "grommet-icons": "^4.4.0",
-    "next": "9.5.2",
+    "next": "9.5.4",
     "react": "16.13.1",
     "react-device-detect": "^1.13.1",
     "react-dom": "16.13.1",
